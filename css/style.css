@@ -18,10 +18,19 @@
  /* background: white; */
  font-family: 'Ubuntu', sans-serif;
 }
+.navbar.sticky-1{
+ padding: 30px 0;
+ background: crimson;
+}
 .navbar .max-width{
  display: flex;
  align-items: center;
  justify-content: space-between;
+}
+.navbar .logo .sticky-2 a{
+ color: white;
+ font-size: 35px;
+ font-weight: 600;
 }
 .navbar .logo a{
  color: crimson;
@@ -29,7 +38,7 @@
  font-weight: 600;
 }
 .navbar .logo a span{
- color: #F4869C;
+ color: #4b4143;
 }
 .navbar .menu li{
  list-style: none;
@@ -43,7 +52,7 @@
  transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-color: #F4869C;
+color: #4b4143;
 }
 
 /* home section styling */
