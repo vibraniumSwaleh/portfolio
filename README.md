@@ -1,5 +1,5 @@
 # Portfolio
-This is a website about myself showcasing my skills and projects as a DevOps Engineer. It's a static website that makes use of anumber of web technologies.
+This is a website about myself showcasing my skills and projects as a DevOps Engineer. It's a static website that makes use of a number of web technologies.
 
 ## Technologies used
 - [x] HTML
